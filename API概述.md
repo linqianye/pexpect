@@ -87,7 +87,7 @@ child.expect('password:', timeout=120)
 
 
 
-# 确定行尾 – CR/LF
+# 用CR/LF确定行尾
 
 Pexpect对正则表达式的匹配与您习惯的使用稍有不同。
 

@@ -15,7 +15,7 @@ Pexpect可用于自动化交互式应用程序，例如ssh，ftp，passwd，teln
 - [API概述](API概述.md)
   
   - [两种特殊的模式：EOF和TIMEOUT](API概述.md#两种特殊的模式：EOF和TIMEOUT)
-  - [确定行尾 – CR/LF](API概述.md#确定行尾 – CR/LF)
+  - [用CR/LF确定行尾](API概述.md#用CR/LF确定行尾)
   - [注意模式末尾的+和*](API概述.md#注意模式末尾的+和*)
   - [调试](API概述.md#调试)
   - [特殊情况](API概述.md#特殊情况)
